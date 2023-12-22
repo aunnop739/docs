@@ -1,3 +1,4 @@
+![replace_all](https://github.com/github/docs/assets/28716433/1a87c71d-3029-4996-a2b8-cc89a06e0d54)
 ---
 title: Site policy documentation
 shortTitle: Site policy
